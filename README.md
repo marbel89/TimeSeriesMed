@@ -6,9 +6,8 @@ Please refer to the individual Notebook file for further discussion.
 
 ## Tasks
 
-1. Forecast monthly number of complaints using precipitation
+1. Forecast monthly number of drug use
 2. Modeling and forecasting seasonal patterns
-3. Predicting and forecasting sunspots counts
 
 ## Results
 
